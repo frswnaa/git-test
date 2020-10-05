@@ -8,5 +8,9 @@
 <body>
     <h1>Hello world</h1>
     <p>Ini latihan git remote</p>
+    <ol>
+        <li>list1</li>
+        <li>list2</li>
+    </ol>
 </body>
 </html>
